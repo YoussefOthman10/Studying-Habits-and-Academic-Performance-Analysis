@@ -1,4 +1,4 @@
-📊 Studying Habits and Academic Performance Analysis
+# 📊 Studying Habits and Academic Performance Analysis
 
 This project explores the relationship between university students’ study habits and their academic performance using survey data.
 
@@ -6,7 +6,7 @@ Through Exploratory Data Analysis (EDA) and data visualization techniques, the p
 
 The analysis was conducted using Python and data science libraries to identify patterns and relationships within the dataset.
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 The main goal of this project is to analyze students’ study behaviors and investigate whether certain habits are associated with better academic outcomes.
 
@@ -16,7 +16,7 @@ How do studying habits such as study hours, sleep hours, and attendance relate t
 
 To explore this question, the project analyzes survey data collected from university students.
 
-🗂 Dataset
+## 🗂 Dataset
 
 The dataset was collected through an online Google Forms survey distributed among university students.
 
@@ -37,7 +37,7 @@ Number of survey responses:
 
 The dataset reflects real student behaviors but was collected using convenience sampling, which may limit generalization to all students.
 
-🧪 Methodology
+## 🧪 Methodology
 
 The analysis follows a standard Exploratory Data Analysis (EDA) workflow:
 
@@ -61,7 +61,7 @@ Outlier detection
 Relationship analysis between variables
 Correlation analysis
 Behavioral pattern analysis
-📈 Analysis Overview
+## 📈 Analysis Overview
 
 The analysis includes both quantitative and qualitative variables.
 
@@ -97,7 +97,7 @@ Visualizations used:
 
 These visualizations help illustrate how students structure their study routines.
 
-📊 Key Findings
+## 📊 Key Findings
 
 The exploratory analysis revealed several insights:
 
@@ -115,7 +115,8 @@ Additionally:
 
 Many students begin studying a few days before exams
 The most popular study method is solving problems or practice questions
-⚠️ Limitations
+
+## ⚠️ Limitations
 
 Several limitations should be considered when interpreting the results:
 
@@ -136,7 +137,7 @@ NumPy – numerical operations
 Matplotlib – plotting
 Seaborn – statistical visualization
 Jupyter Notebook – interactive analysis environment
-📁 Project Structure
+## 📁 Project Structure
 Studying-Habits-and-Academic-Performance-Analysis
 │
 ├── README.md
