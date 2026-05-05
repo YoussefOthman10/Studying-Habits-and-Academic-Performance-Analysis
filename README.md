@@ -159,17 +159,6 @@ These tools were used for **data cleaning, statistical analysis, and data visual
 
 ---
 
-## 📁 Project Structure
-Studying-Habits-and-Academic-Performance-Analysis
-│
-├── README.md
-├── data/
-├── notebooks/
-├── reports/
-└── requirements.txt
-
----
-
 ## 👨‍💻 Author
 
 **Youssef Mohamed Yehia**  
